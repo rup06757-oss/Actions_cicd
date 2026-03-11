@@ -1,4 +1,4 @@
-name: 03 - Workflow
+name: 03-Workflow
 
 on: workflow_dispatch
 
